@@ -80,3 +80,6 @@
     order: ;
     width: 34%;
 }
+@media screen{
+    max-width:480px;
+}
